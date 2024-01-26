@@ -18,7 +18,7 @@ function AboutCard() {
           <p style={{ color: "rgb(155 126 172)" }}>
             "The success your are looking for is the work you are avoiding!"{" "}
           </p>
-          <footer className="blockquote-footer">Subin</footer>
+          <footer className="blockquote-footer">🫡</footer>
         </blockquote>
       </Card.Body>
     </Card>
